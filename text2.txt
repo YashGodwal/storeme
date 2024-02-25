@@ -1,1 +1,28 @@
 hello world  i m here for you bonjour.
+
+#first initialize git in directory
+git init
+
+2. check the status of file 
+git status
+
+3. add files in tracked and checked directory
+git add .
+
+4. now again check the status of files that files sre tracked or not
+git status
+
+5. now after check the status we commit the files to show information that ou files are completely commited 
+git commit -m "Complete change in text file"
+
+6. now make remote repositry by using 
+git remote add origin <URL> (origin is nae only we can take any name we want with git repositry URL here)
+
+7. now after this we can push those files on github
+git push -u origin main (main is brach)
+
+8. after this we can refresh the gihub page and we can see our files on that github repositry
+
+9.if we make some changes in our files then we can check whats the old file look nd whats we added new in our file
+git diff name of file with extension> (like text2.txt)
+
