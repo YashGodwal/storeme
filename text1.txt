@@ -1,1 +1,20 @@
 hey world thanks for coming here now u can do anything u want.
+
+now here are new concepts if git where we know more about branches
+
+1.frst we can check the branches are available:
+git brach
+
+2.here we add branch in directory:
+git branch <name if branch we can add>
+
+3.then again we have to check the status of directory and if any file is shown modified then it means
+git status
+
+4.now we have to add those file which we r modified
+git add .
+
+5.now check the status of files again 
+git status
+
+6.remember that we are doing work on our other branch right now for some files
