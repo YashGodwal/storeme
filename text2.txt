@@ -26,3 +26,6 @@ git push -u origin main (main is brach)
 9.if we make some changes in our files then we can check whats the old file look nd whats we added new in our file
 git diff name of file with extension> (like text2.txt)
 
+10. now we can merge both two branches 
+git merge <name of branch which we want to merge>
+

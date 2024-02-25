@@ -19,6 +19,7 @@ git status
 
 6.remember that we are doing work on our other branch right now for some files
 
+
 7.if we wnat to go on our past branch then we have to use
 git checkout main
 
