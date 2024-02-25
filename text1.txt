@@ -24,3 +24,8 @@ git checkout main
 
 8. after this we can see our old file which show u without any changes and show you old file
 
+9. for shifting the branches we can do
+git checkout <name of that branch>
+
+
+
